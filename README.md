@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shaik Kismath 👋
 
-<!--
-**kismath29/kismath29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Data Science & Artificial Intelligence  
+📊 Interested in Machine Learning, AI & Data Analytics  
+💻 Skilled in Python, Pandas, NumPy, Scikit-learn  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🔹 Machine Learning Projects  
+🔹 Data Analysis Projects  
+🔹 AI-based Applications  
+
+
+## 📫 Connect With Me
+📧 Email: shaikkismath08@gmail.com  
+🔗 GitHub: https://github.com/kismath29
