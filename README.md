@@ -3,7 +3,8 @@
 💻 Aspiring Software Developer with interest in AI & Data Analytics
 🛠️ Skills: Python, Pandas, NumPy, Scikit-learn
 
-🚀 Projects
+🚀 Projects 
+
 🔹 Machine Learning Projects  
 🔹 Data Analysis Projects  
 🔹 AI-based Applications  
