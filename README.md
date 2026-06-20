@@ -4,7 +4,6 @@
 🛠️ Skills: Python, Pandas, NumPy, Scikit-learn
 
 🚀 Projects 
-
 🔹 Machine Learning Projects  
 🔹 Data Analysis Projects  
 🔹 AI-based Applications  
