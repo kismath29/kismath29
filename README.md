@@ -7,8 +7,6 @@
 🔹 Machine Learning Projects  
 🔹 Data Analysis Projects  
 🔹 AI-based Applications  
-
-
-📫 Connect With Me
+>📫 Connect With Me
 📧 Email: shaikkismath08@gmail.com  
 🔗 GitHub: https://github.com/kismath29
