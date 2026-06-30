@@ -5,7 +5,7 @@ Hi, I'm Shaik Kismath 👋
 🌱 Currently learning Machine Learning, Data Science, DSA, and Azure AI
 🚀 Passionate about building AI-powered applications and solving real-world problems through technology.
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
 Programming: Python
 Libraries: Pandas, NumPy, Scikit-learn
 Data Analysis & Visualization
@@ -13,18 +13,14 @@ Machine Learning
 AI Applications
 Git & GitHub
 Problem Solving & DSA (Learning)
-🚀 Projects
+🚀 Projects:
 🔹 AI Text Summarizer
 🔹 Student Performance Analytics Dashboard
 🔹 Machine Learning Projects
 🔹 Data Analysis Projects
-🔹 AI-Based Web Applications
-🎯 Currently Learning
-Azure AI Fundamentals (AI-900)
-Data Structures & Algorithms (Python)
-Advanced Machine Learning
-Cloud & AI Technologies
-📫 Connect With Me
+🔹 AI Insurance Collector
+
+📫 Connect With Me:
 
 📧 Email: shaikkismath08@gmail.com
 🐙 GitHub: https://github.com/kismath29
